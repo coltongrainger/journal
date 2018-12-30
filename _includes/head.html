@@ -33,4 +33,19 @@
      | <a href="https://raw.githubusercontent.com/coltongrainger/journal/master/{{ page.path }}">source</a>
      | <a href="https://github.com/coltongrainger/journal/commits/master/{{ page.path }}">history</a>
   </div>
+  <div style="float:right;">
+    <!--
+      See
+        - http://stackoverflow.com/a/13379065/3422337
+        - http://kaspars.net/blog/wordpress/how-to-add-google-site-search
+        - http://www.vanderbilt.edu/searchsupport/code-samples.php
+    -->
+    <form name="google-search" action="https://google.com/search" method="get">
+      <fieldset style="border:0;">
+        <input type="hidden" name="sitesearch" value="http://coltongrainger.com" />
+        <input name="q" type="text" />
+        <input type="submit" name="btnG" value="search" />
+      </fieldset>
+    </form>
+  </div>
   <br>
