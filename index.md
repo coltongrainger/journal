@@ -3,6 +3,16 @@ title: journal
 author: Colton Grainger
 ---
 
+## 2019-12-31
+
+I spent some time convincing myself that "chunking mathematical concepts" would be more rewarding "completing prerequisites in a satisfactory order" after reading Michael Nielsen's [essay on anki](http://augmentingcognition.com/ltm.html). I reactivated [mnemosyne cards](https://quamash.net/maths-GRE) I had made studying for the math GRE. 
+
+While revising cards I had starred for typos, I began to recognize I'd been trying to chunk concepts that were too complex for a first pass. (I found a particularly bad batch of measure theory cards---should delete these or just atomicize them?)
+
+<!---
+I finally setup a bitcoin wallet and skimmed [bitcoin is worse is better](https://www.gwern.net/Bitcoin-is-Worse-is-Better).
+--->
+
 ## 2018-12-30
 
 I finished <https://prooflogger.quamash.net>, which I hope Lee will allow me to force some of the calculus sections to use. [Here](https://quamash.net/math1300#participation) is an outline I'd give students. I aim to game students into presenting proofs to each other and providing constructive oral feedback.
