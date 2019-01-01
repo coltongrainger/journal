@@ -3,19 +3,27 @@ title: journal
 author: Colton Grainger
 ---
 
+## 2018-12-30
+
+I finished <https://prooflogger.quamash.net>, which I hope Lee will allow me to force some of the calculus sections to use. [Here](https://quamash.net/math1300#participation) is an outline I'd give students. I aim to game students into presenting proofs to each other and providing constructive oral feedback.
+
+## 2018-12-29
+
+I thought about social support networks while travelling from Idaho back to Boulder, specifically [cohorts](http://www.pgbovine.net/PG-Vlog-252-cohort-effects.htm).
+
 ## 2018-12-27
 
-Following <https://nadiaeghbal.com/notes>, <https://issarice.wordpress.com/>, and <https://youtu.be/M2pGiBrw-Ns?t=422> I'm starting a working journal. 
+Following <https://nadiaeghbal.com/notes>, <https://issarice.wordpress.com/>, and <https://youtu.be/M2pGiBrw-Ns?t=422> I'm starting a working journal with a broad scope: early graduate school in the mathematics department at CU Boulder.
 
-I haven't gotten permission to emulate any one of these three authors, so I'm sort of planning to write in a manner that oscillates between their styles. If I'm not mistaken, in spite of the common medium (daily notes/updates/entries), I feel each author's motivation is tangential to the other two's: either for exploration, or for transparency, or for reflection.
+I haven't gotten permission to emulate any one of these authors, so I'm sort of planning to write in a manner that oscillates between each's style. In spite of the common medium (~daily entries) it seems each author's motivation is tangential to the other two's: writing for exploration, for transparency, for reflection.
 
-At different times I imagine I will be writing both
+I imagine I will be keeping this journal
 
 - to narrate what I've been working on in a chronological fashion,
-- to give myself encouragement (i.e., by tracking nontrivial progress through the curriculum),
-- to urge myself on (as in ski-racing: we'd often yell at eachother "up up up!").
+- to give myself encouragement by tracking progress through my coursework,
+- to urge myself on (as in ski-racing, where we'd often yell at each other "up up up!").
 
-Here are representative quotes from the three authors:
+I think it would be appropriate to include characteristic quotes, which motivate this journal.
 
 Nadia Eghbal ([notes](https://nadiaeghbal.com/notes/))
 
