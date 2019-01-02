@@ -3,6 +3,12 @@ title: journal
 author: Colton Grainger
 ---
 
+## 2019-01-01
+
+I revised cards on introductory measure theory, also group actions. I continued through a backlog of reviews I owed mnemosyne from last semester. 
+
+(Oddly as well, I flicked through photos from 2018 back to the beginning of 2016, when I was skiing a bit and preparing to graduate. From my undergraduate coursework, maybe I'm only interested to mnemo-fy notes from electricity and magnetism? from ordinary differential equations?)
+
 ## 2019-12-31
 
 I spent some time convincing myself that "chunking mathematical concepts" would be more rewarding "completing prerequisites in a satisfactory order" after reading Michael Nielsen's [essay on anki](http://augmentingcognition.com/ltm.html). I reactivated [mnemosyne cards](https://quamash.net/maths-GRE) I had made studying for the math GRE. 
