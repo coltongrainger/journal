@@ -3,6 +3,10 @@ title: journal
 author: Colton Grainger
 ---
 
+## 2019-01-02
+
+I setup yst to compile yaml data into a [CV](https://coltongrainger.com/cv), as per Dom Moritz's <https://domoritz.de/cv/>. Dom's job-hunting stress thoroughly dosed me (by proxy) with timeline stress, and, incidentally, I wasted most of the day signalling / equipping myself for future signalling.
+
 ## 2019-01-01
 
 I revised cards on introductory measure theory, also group actions. I continued through a backlog of reviews I owed mnemosyne from last semester. 
