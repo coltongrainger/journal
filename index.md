@@ -3,9 +3,28 @@ title: journal
 author: Colton Grainger
 ---
 
+## 2019-01-04
+
+Chris and I sat for a timed [practice exam](https://github.com/coltongrainger/fy19alg1/blob/master/2019-01-04-algebra-sep-practice.md), adapted from Ed Dummit's 2014 [algebra summer enhancement program](https://sites.google.com/a/wisc.edu/math-intranet/home/quals). I feel silly taking the exam before I know what I'm doing, but 
+
+- there's a timeline, and 
+- our dept chair emphasizes ["trusting oneself"](http://math.colorado.edu/~kstange/gradstudy.pdf) to seek out "new challenges and novel contexts". 
+    - (Her accompanying advice is, of course, to "doubt oneself" and "build what you know", which I look forward to reverting to after next week.)
+
+## 2019-01-03
+
+Chris talked me through problems 1--3 on CU's [Jan 2008 algebra prelim](https://github.com/coltongrainger/prelims/blob/master/2008-01-15-cu-algebra-prelim.pdf), which I didn't understand. For prob 2, we needed to make a recursive argument to find a nontrivial abelian normal subgroup of prime power order in a finite solvable group. Ian also mentioned this problem (with enthusiasm) before break, so I might revisit it.
+
+I started reviewing from [Hubbard](http://matrixeditions.com/5thUnifiedApproach.html), following the [week 1](https://canvas.harvard.edu/courses/45219/pages/weekly-schedule) schedule for Paul Bamberg's [Math 23a](https://canvas.harvard.edu/courses/45219/files/6701269/download?verifier=Yvcu1AARsTzhWbCTmjtM2cT0BWA4sCCxBS3VftOE&wrap=1). (The supplemental materials for math 23a are great, and I think I'll exhaust most of my free time before Jan 14 going over these.) 
+
+Lastly, I went through exercises in I.1 Fields from Halmos's [Finite Dimensional Vector Spaces](https://www.springer.com/us/book/9780387900933), which is admittedly out of date. I'm going through Halmos, however, because
+
+- I found a hardcopy in the math dept's reading room, and 
+- I was impressed when I skimmed [Halmos's and Steenrod's](https://news.ycombinator.com/item?id=16829440) 1973 *How to Write Mathematics*.
+
 ## 2019-01-02
 
-I setup yst to compile yaml data into a [CV](https://coltongrainger.com/cv), as per Dom Moritz's <https://domoritz.de/cv/>. Dom's job-hunting stress thoroughly dosed me (by proxy) with timeline stress, and, incidentally, I wasted most of the day signalling / equipping myself for future signalling.
+Distracted today: I setup yst to compile yaml data into a [CV](https://coltongrainger.com/cv), as per Dom Moritz's <https://domoritz.de/cv/>. Dom's job-hunting stress thoroughly dosed me (by proxy) with timeline stress, and, incidentally, I spent the day "signalling".
 
 ## 2019-01-01
 
