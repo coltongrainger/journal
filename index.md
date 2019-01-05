@@ -11,6 +11,8 @@ Chris and I sat for a timed [practice exam](https://github.com/coltongrainger/fy
 - our dept chair emphasizes ["trusting oneself"](http://math.colorado.edu/~kstange/gradstudy.pdf) to seek out "new challenges and novel contexts". 
     - (Her accompanying advice is, of course, to "doubt oneself" and "build what you know", which I look forward to reverting to after next week.)
 
+I compiled Micky Steinberg's [2014 group theory notes](https://www.math.wisc.edu/~micky/grouptheory.pdf) into a [light-hearted practice exam](https://github.com/coltongrainger/fy19alg1/blob/master/2019-01-05-algebra-micky-practice.md) for tomorrow.
+
 ## 2019-01-03
 
 Chris talked me through problems 1--3 on CU's [Jan 2008 algebra prelim](https://github.com/coltongrainger/prelims/blob/master/2008-01-15-cu-algebra-prelim.pdf), which I didn't understand. For prob 2, we needed to make a recursive argument to find a nontrivial abelian normal subgroup of prime power order in a finite solvable group. Ian also mentioned this problem (with enthusiasm) before break, so I might revisit it.
