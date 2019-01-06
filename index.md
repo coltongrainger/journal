@@ -3,6 +3,14 @@ title: journal
 author: Colton Grainger
 ---
 
+## 2019-01-05
+
+I continued to atomicize mnemosyne cards by expanding "naive" procedural topics from the GRE. I went through a proof of Sylow's theorems and thought about the conjugation and left translation action of a group $G$ on its $p$-groups. 
+
+<!--
+I set up a [fact sheet for internship applications](https://github.com/coltongrainger/internships) this summer.
+-->
+
 ## 2019-01-04
 
 Chris and I sat for a timed [practice exam](https://github.com/coltongrainger/fy19alg1/blob/master/2019-01-04-algebra-sep-practice.md), adapted from Ed Dummit's 2014 [algebra summer enhancement program](https://sites.google.com/a/wisc.edu/math-intranet/home/quals). I feel silly taking the exam before I know what I'm doing, but 
