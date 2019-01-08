@@ -9,6 +9,14 @@ I made my first attempts on the algebra prelim. I struggled to understand the po
 
 > When $Q_8$ acts on $I_n$ for $n < 8$, the stabilizer of any point in $I_n$ contains $-1$, whence $-1$ is in the kernel of the action.
 
+I expect the prelim study Slack will now be defunct.
+
+To shift gears for the topology prelim, I passed over [PCM IV.10](http://catdir.loc.gov/catdir/toc/ecip0818/2008020450.html), surveying Algebraic Topology. 
+
+<!--
+Also, I'm a troubled now what to focus on: linear algebra, topology, reviewing multivariable calculus, on internship applications?
+-->
+
 ## 2019-01-06
 
 Chris and I ran through Micky's group theory notes. I discovered Zassenhaus' [The Theory of Groups](https://books.google.com/books?id=_lOycgz7bQYC) and skimmed through chapter IV on $p$-groups and Sylow $p$-groups. 
