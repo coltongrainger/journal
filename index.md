@@ -7,7 +7,7 @@ author: Colton Grainger
 
 As a chore and measure of progress, I attempted the algebra prelim.
 
-- I struggled to understand possible group actions of $Q_8$ on $\{1, \ldots, n\}$. In a dilemma, I wrote out a treacherously long table of conjugacy classes for $S_4, S_5, S_6$ and $S_7$ and made a confusion argument about creating normal subgroups. 
+- I struggled to understand possible group actions of $Q_8$ on $\{1, \ldots, n\}$. In a dilemma, I wrote out a treacherously long table of conjugacy classes for $S_4, S_5, S_6$ and $S_7$ and made a confusing argument about normal subgroups as unions of conjugacy classes.
 
 - Afterwards, Andre and I discovered a one-line proof (assuming orbit stabilizer is already applied):
 
