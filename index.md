@@ -5,17 +5,17 @@ author: Colton Grainger
 
 ## 2019-01-07
 
-I made my first attempts on the algebra prelim. I struggled to understand the possible group actions of $Q_8$ on $\{1, \ldots, n\}$, and, in a dilemma, wrote out a treacherously long table for the conjugacy classes in $S_4, S_5, S_6, S_7$. Andre and I discovered afterwards that using orbit stabilizer, one could give a one-line proof: 
+I attempted the algebra prelim.
+
+How'd it go? For example, I struggled to understand possible group actions of $Q_8$ on $\{1, \ldots, n\}$. In a dilemma, I wrote out a treacherously long table of conjugacy classes for $S_4, S_5, S_6$ and $S_7$ and made a confusion argument about creating normal subgroups.
+
+Afterwards, Andre and I discovered a one-line proof (assuming orbit stabilizer is already applied):
 
 > When $Q_8$ acts on $I_n$ for $n < 8$, the stabilizer of any point in $I_n$ contains $-1$, whence $-1$ is in the kernel of the action.
 
-I expect the prelim study Slack will now be defunct.
+To shift gears for topology, I passed over a survey: [PCM IV.10](http://catdir.loc.gov/catdir/toc/ecip0818/2008020450.html). 
 
-To shift gears for the topology prelim, I passed over [PCM IV.10](http://catdir.loc.gov/catdir/toc/ecip0818/2008020450.html), surveying Algebraic Topology. 
-
-<!--
-Also, I'm a troubled now what to focus on: linear algebra, topology, reviewing multivariable calculus, on internship applications?
--->
+I expect the Slack channel Chris and I were using to study will soon be defunct. 
 
 ## 2019-01-06
 
