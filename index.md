@@ -5,17 +5,19 @@ author: Colton Grainger
 
 ## 2019-01-07
 
-I attempted the algebra prelim.
+As a chore and measure of progress, I attempted the algebra prelim.
 
-How'd it go? For example, I struggled to understand possible group actions of $Q_8$ on $\{1, \ldots, n\}$. In a dilemma, I wrote out a treacherously long table of conjugacy classes for $S_4, S_5, S_6$ and $S_7$ and made a confusion argument about creating normal subgroups.
+- I struggled to understand possible group actions of $Q_8$ on $\{1, \ldots, n\}$. In a dilemma, I wrote out a treacherously long table of conjugacy classes for $S_4, S_5, S_6$ and $S_7$ and made a confusion argument about creating normal subgroups. 
 
-Afterwards, Andre and I discovered a one-line proof (assuming orbit stabilizer is already applied):
+- Afterwards, Andre and I discovered a one-line proof (assuming orbit stabilizer is already applied):
 
-> When $Q_8$ acts on $I_n$ for $n < 8$, the stabilizer of any point in $I_n$ contains $-1$, whence $-1$ is in the kernel of the action.
+    > When $Q_8$ acts on $I_n$ for $n < 8$, the stabilizer of any point in $I_n$ contains $-1$, whence $-1$ is in the kernel of the action.
 
-To shift gears for topology, I passed over a survey: [PCM IV.10](http://catdir.loc.gov/catdir/toc/ecip0818/2008020450.html). 
+- Also afterwards, when I needed to determine which primes in $\ZZ$ were also Gaussian primes, I found myself impressed with Weissstein's [MathWorld](https://en.wikipedia.org/wiki/MathWorld).
 
-I expect the Slack channel Chris and I were using to study will soon be defunct. 
+- I expect the Slack channel Chris and I were using to study will soon be defunct.
+
+- To shift gears for topology, I passed over a survey: [PCM IV.10](http://catdir.loc.gov/catdir/toc/ecip0818/2008020450.html). 
 
 ## 2019-01-06
 
