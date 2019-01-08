@@ -13,7 +13,7 @@ As a chore and measure of progress, I attempted the algebra prelim.
 
     > When $Q_8$ acts on $I_n$ for $n < 8$, the stabilizer of any point in $I_n$ contains $-1$, whence $-1$ is in the kernel of the action.
 
-- Also afterwards, when I needed to determine which primes in $\ZZ$ were also Gaussian primes, I found myself impressed with Weissstein's [MathWorld](https://en.wikipedia.org/wiki/MathWorld).
+- Also afterwards, when I needed to determine which primes in $\mathbf{Z}$ were also Gaussian primes, I found myself impressed with Weissstein's [MathWorld](https://en.wikipedia.org/wiki/MathWorld).
 
 - I expect the Slack channel Chris and I were using to study will soon be defunct.
 
