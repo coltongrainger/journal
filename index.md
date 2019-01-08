@@ -3,6 +3,18 @@ title: journal
 author: Colton Grainger
 ---
 
+## 2019-01-07
+
+I made my first attempts on the algebra prelim. I struggled to understand the possible group actions of $Q_8$ on $\{1, \ldots, n\}$, and, in a dilemma, wrote out a treacherously long table for the conjugacy classes in $S_4, S_5, S_6, S_7$. Andre and I discovered afterwards that using orbit stabilizer, one could give a one-line proof: 
+
+> When $Q_8$ acts on $I_n$ for $n < 8$, the stabilizer of any point in $I_n$ contains $-1$, whence $-1$ is in the kernel of the action.
+
+## 2019-01-06
+
+Chris and I ran through Micky's group theory notes. I discovered Zassenhaus' [The Theory of Groups](https://books.google.com/books?id=_lOycgz7bQYC) and skimmed through chapter IV on $p$-groups and Sylow $p$-groups. 
+
+To de-stress before the prelim, I browsed the OED for historical uses of `morphism`, `quaternion`, `group`, `ring`, `field`. (I found Zassenhaus under `quaternions`.)
+
 ## 2019-01-05
 
 I continued to atomicize mnemosyne cards by expanding "naive" procedural topics from the GRE. I went through a proof of Sylow's theorems and thought about the conjugation and left translation action of a group $G$ on its $p$-groups. 
