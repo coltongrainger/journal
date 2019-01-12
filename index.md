@@ -3,13 +3,38 @@ title: journal
 author: Colton Grainger
 ---
 
+## 2019-01-11
+
+More teacher training. Finished my [SIParCS application](https://github.com/coltongrainger/internships/blob/master/statements/siparcs-climate-models.md). Mnemosyne.
+
+## 2019-01-10
+
+Attended teacher training. Finished transcribing an [interview with Leah Buechley](https://github.com/coltongrainger/neural-network/blob/master/posts/2018-09-10-leah-buechley.md). Setup duplicity with google cloud platform. Defragmented my gmail archive.
+
+## 2019-01-09
+
+Took the topology prelim. Answered 3 of 6 questions in point-set and algebraic topology.
+
+- separation properties
+- applications of Seifert van-Kampen
+- homotopy groups of real projective space
+
+Talked to TK: what to review for differential geometry? 
+
+- multilinear forms up to the definition of a tensor product
+- implicit and inverse function theorems
+
+## 2019-01-08
+
+More chores, etc. I installed KeePassX.
+
 ## 2019-01-07
 
 As a chore and measure of progress, I attempted the algebra prelim.
 
-- I struggled to understand possible group actions of $Q_8$ on $\{1, \ldots, n\}$. In a dilemma, I wrote out a treacherously long table of conjugacy classes for $S_4, S_5, S_6$ and $S_7$ and made a confusing argument about normal subgroups as unions of conjugacy classes.
+- I struggled to understand possible group actions of $Q_8$ on $\{1, \ldots, n\}$. In a dilemma, I wrote out a treacherously long table of conjugacy classes for $S_n$, $n = 4, \ldots, 7$ and made a confusing argument about normal subgroups as unions of conjugacy classes.
 
-- Afterwards, Andre and I discovered a one-line proof (assuming orbit stabilizer is already applied):
+- Afterwards, Andre and I discovered a one-liner to show "$Q_8 \le S_n$" is absurd for these cases.
 
     > When $Q_8$ acts on $I_n$ for $n < 8$, the stabilizer of any point in $I_n$ contains $-1$, whence $-1$ is in the kernel of the action.
 
