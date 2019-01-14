@@ -3,6 +3,20 @@ title: journal
 author: Colton Grainger
 ---
 
+## 2019-01-13
+
+I previewed syllabi and reading for the next 2 weeks.
+
+- Homology in Hatcher, Bredon, and May;
+- Modules in Dummit & Foote;
+- Linear Algebra/Calculus review in Lee.
+
+I also setup <https://cu3d.github.io>, a catalog of 3D-printed models, for the MARC.
+
+## 2019-01-12
+
+Errands. Odds & ends from last semester's `todo.org`. I had a lengthy, meandering conversation with two older grad students (TK & Carly) about faculty transitions at CU in the last 6 years. I realized how convenient <https://aiwatch.issarice.com> was for summarizing rank/career changes. Not much math.
+
 ## 2019-01-11
 
 More teacher training. Finished my [SIParCS application](https://github.com/coltongrainger/internships/blob/master/statements/siparcs-climate-models.md). Mnemosyne.
