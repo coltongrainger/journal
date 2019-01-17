@@ -2,6 +2,24 @@
 title: journal
 author: Colton Grainger
 ---
+## 2019-01-16
+
+Lectures again, worked to flesh out definitions for modules and simplices. Made progress in defining *two* functors: 
+
+- $\Del(--)\colon \mathsf{Top} \to \mathsf{Ch}$ (by moving from graded abelian groups to chain complexes), and
+- the correspondence 'tween $F[x]$-modules and $F$-vector spaces $V$ with a chosen endomorphism $V \to V$.
+
+## 2019-01-15
+
+Attended offices hours for top2. Asked how to distinguish the monodromy action from action of the group of deck transformations. Got permission to stop reviewing top1 (woot!) and pass onto homology.
+
+Thought about morphisms of vector spaces from a categorical perspective. Skimmed Breezer's FCLA (elementary matrices as transformations, 4 subspaces, similar and diagonal matrices). Worked through examples (especially notation) in PCM I.3.4. Slowly began to understand why one would want eigenvector bases to study subspaces "stable" under linear transformation.
+
+Also spent an upsetting amount of time configuring pandoc on my laptop and server. Gross. I don't even see how the software is held together. Way beyond me.
+
+## 2019-01-14
+
+Started lecture notes for [Topology 2](https://quamash.net/top2) (top2), [Differential Geometry 1](https://quamash.net/diffgeo1) (diffgeo1), and [Algebra 2](https://quamash.net/alg2) (alg2). Linearity is 4sure the unifying theme of the week. Notably, diffgeo1 made a whirlwind tour of Appendix B in Lee's *Introduction to Smooth Manifolds*.
 
 ## 2019-01-13
 
@@ -78,7 +96,8 @@ Chris and I sat for a timed [practice exam](https://github.com/coltongrainger/fy
 
 - there's a timeline, and 
 - our dept chair emphasizes ["trusting oneself"](http://math.colorado.edu/~kstange/gradstudy.pdf) to seek out "new challenges and novel contexts". 
-    - (Her accompanying advice is, of course, to "doubt oneself" and "build what you know", which I look forward to reverting to after next week.)
+
+Her accompanying advice is, of course, to "doubt oneself" and "build what you know", which I look forward to reverting to after next week.
 
 I compiled Micky Steinberg's [2014 group theory notes](https://www.math.wisc.edu/~micky/grouptheory.pdf) into a [light-hearted practice exam](https://github.com/coltongrainger/fy19alg1/blob/master/2019-01-05-algebra-micky-practice.md) for tomorrow.
 
