@@ -6,9 +6,9 @@ bibliography: /home/colton/coltongrainger.bib
 
 ## 2019-01-20
 
-I translated Folland's "first look" at functional relations into arguments about the dimension and symmetric of repeated Fréchet derivatives.
+I translated Folland's first look at functional relations into intuition for the dimension and symmetric properties of repeated Fréchet derivatives.
 
-I surveyed proofs of "the" inverse function theorem and "the" implicit function theorem [@Fol02, ch. 3.1], [@HH15, ch. 2.10], [@Lee03, no. C.34].
+I surveyed proofs for inverse function theorems and implicit function theorems [@Fol02, ch. 3.1], [@HH15, ch. 2.10], [@Lee03, no. C.34].
 
 ## 2019-01-19
 
@@ -18,7 +18,7 @@ I struggled with notation for repeated applications of the Fréchet derivative. 
 
 In Folland, I gladly found two problems that matched gaps in my knowledge: one to do with Lagrange multipliers and the spectral theorem, the other to do with setting up a meaningful definition of higher Fréchet derivatives.
 
-> Let $A$ be a symmetric $n \times n$ matrix, and let $f(\vec{x}) = (A \vec x) \cdot \vec x$ for $\vec x \in \mathbf{R}^n$. Show that the maximum and minimum of $f$ on the unit sphere $\{ \vec x : \abs{\vec x } = 1\}$ are the largest and smallest eigenvalues of $A$. [@Fol02, number 2.9.19]
+> Let $A$ be a symmetric $n \times n$ matrix, and let $f(\vec{x}) = (A \vec x) \cdot \vec x$ for $\vec x \in \mathbf{R}^n$. Show that the maximum and minimum of $f$ on the unit sphere $\{ \vec x : |\vec x| = 1\}$ are the largest and smallest eigenvalues of $A$. [@Fol02, number 2.9.19]
 
 > Suppose $f \colon \mathbf{R}^n \to \mathbf{R}$ is of class $C^2$; then $\nabla f$ is a $C^1$ mapping from $\mathbf{R}^n$ to itself. Show that $D(\nabla f)$ is the Hessian matrix of $f$. [@Fol02, number 2.10.6]
 
