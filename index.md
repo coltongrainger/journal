@@ -1,12 +1,60 @@
 ---
 title: journal
 author: Colton Grainger
+bibliography: /home/colton/coltongrainger.bib
 ---
+
+## 2019-01-20
+
+I translated Folland's "first look" at functional relations into arguments about the dimension and symmetric of repeated Fréchet derivatives.
+
+I surveyed proofs of "the" inverse function theorem and "the" implicit function theorem [@Fol02, ch. 3.1], [@HH15, ch. 2.10], [@Lee03, no. C.34].
+
+## 2019-01-19
+
+Worked through the motivating historical calculus in Massey's [Singular Homology Theory](https://www.springer.com/us/book/9781468492330) [@Mas80, chapter 1]. (Massey develops homology theory with $n$-cubes rather than simplices---why? To have oriented $n$-cubes available as integrands? Does some argument/limiting process fail when working with an infinitesmally thickening mesh of simplices?)
+
+I struggled with notation for repeated applications of the Fréchet derivative. Got distracted in considering repeated linear transformations as vectors spaces themselves in the category of topological vector spaces. Skimmed related results in I.3 of Lang's [Fundamentals of Differential Geometry](https://www.springer.com/us/book/9780387985930) [@Lan99, chapter 1].
+
+In Folland, I gladly found two problems that matched gaps in my knowledge: one to do with Lagrange multipliers and the spectral theorem, the other to do with setting up a meaningful definition of higher Fréchet derivatives.
+
+> Let $A$ be a symmetric $n \times n$ matrix, and let $f(\vec{x}) = (A \vec x) \cdot \vec x$ for $\vec x \in \mathbf{R}^n$. Show that the maximum and minimum of $f$ on the unit sphere $\{ \vec x : \abs{\vec x } = 1\}$ are the largest and smallest eigenvalues of $A$. [@Fol02, number 2.9.19]
+
+> Suppose $f \colon \mathbf{R}^n \to \mathbf{R}$ is of class $C^2$; then $\nabla f$ is a $C^1$ mapping from $\mathbf{R}^n$ to itself. Show that $D(\nabla f)$ is the Hessian matrix of $f$. [@Fol02, number 2.10.6]
+
+## 2019-01-18
+
+Lectures.
+
+- Alg2: In the category of modules, we defined homomorphisms, kernels, quotients, and began to state a series of familiar isomorphism theorems [@DF02, chapter 10.2].
+- Diffgeo1: Stated the implicit function theorem [@Lee03, chapter C], and defined a topological manifold [@Lee03, chapter 1].
+- Top2: Reasoned about long exact/non-exact sequences of abelian groups.
+
+I found out that I conditionally passed the algebra prelim, and so, made a haphazard sketch of work to do.
+
+term | workload
+--- | ---
+He18 | Algebra 1, Topology 1, StatOptML (algebra prelim)
+Fr19 | Algebra 2, Topology 2, DiffGeo1 (topology prelim)
+So19 | SIParCS, CU MRE, NSF apps
+He19 | Algebra (Green, Wise, Casalaina-Martin), Analysis 1, Numerics (Bradley, Meiss, Becker, Raf)
+Fr20 | Analysis 2, Complex Analysis, Algebraic Topology (Pflaum, Beaudry)
+So20 | Talbot, more NSF apps, teaching
+He20 | topic proposal, advisors in MATH/APPM/CS
+
+(Now I have 90% confidence that I will stave off studying probability until next year.)
+
+## 2019-01-17
+
+Mostly teaching, then munging surveys I had put out to the calculus sections. I went to the first meeting for a reading course in probability/measure theory. (I then had about 0.3 confidence I would drop.) 
+
+I reviewed the chain rule in Folland's *Advanced Calculus* [@Fol99, chapter 2.3], and derivatives in several variables as linear transformations in Hubbard's *A Unified Approach* [@HH15, chapter 1.7--1.9].
+
 ## 2019-01-16
 
 Lectures again, worked to flesh out definitions for modules and simplices. Made progress in defining *two* functors: 
 
-- $\Del(--)\colon \mathsf{Top} \to \mathsf{Ch}$ (by moving from graded abelian groups to chain complexes), and
+- $\Delta ( - )\colon \mathsf{Top} \to \mathsf{Ch}$ (by moving from graded abelian groups to chain complexes), and
 - the correspondence 'tween $F[x]$-modules and $F$-vector spaces $V$ with a chosen endomorphism $V \to V$.
 
 ## 2019-01-15
@@ -138,7 +186,7 @@ I finished <https://prooflogger.quamash.net>, which I hope Lee will allow me to 
 
 ## 2018-12-29
 
-I thought about social support networks while travelling from Idaho back to Boulder, specifically [cohorts](http://www.pgbovine.net/PG-Vlog-252-cohort-effects.htm).
+I thought about social support networks while travelling from Idaho back to Boulder, e.g., [the cohort effect](http://www.pgbovine.net/PG-Vlog-252-cohort-effects.htm).
 
 ## 2018-12-27
 
@@ -177,3 +225,7 @@ Philip Guo ([vlog transcript, talking about his journal](https://youtu.be/M2pGiB
 > > July 2013 I'm going to start a rough weekly work diary reflecting on my thoughts about life as a young academic. I need to focus more on how I feel rather than what I did since it's easy to later reconstruct what I did from other artifacts but it's hard to recreate old feelings. this diary is gonna be quite rough and I don't want to hold myself to a strict writing schedule. let's keep this fairly freeform and low-key. 
 >
 > once again in parentheses I said: focus on how I feel rather than just what I did
+
+## References 
+
+(This section TODO.)
