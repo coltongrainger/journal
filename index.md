@@ -42,13 +42,13 @@ Fr20 | Analysis 2, Complex Analysis, Algebraic Topology (Pflaum, Beaudry)
 So20 | Talbot, more NSF apps, teaching
 He20 | topic proposal, advisors in MATH/APPM/CS
 
-(Now I have 90% confidence that I will stave off studying probability until next year.)
+(Now I have 90% confidence that I will stave off probability until next year.)
 
 ## 2019-01-17
 
 Mostly teaching, then munging surveys I had put out to the calculus sections. I went to the first meeting for a reading course in probability/measure theory. (I then had about 0.3 confidence I would drop.) 
 
-I reviewed the chain rule in Folland's *Advanced Calculus* [@Fol99, chapter 2.3], and derivatives in several variables as linear transformations in Hubbard's *A Unified Approach* [@HH15, chapter 1.7--1.9].
+I reviewed the chain rule in Folland's [Advanced Calculus](http://www.math.ucla.edu/~iacoley/32H.pdf) [@Fol99, chapter 2.3], and derivatives in several variables as linear transformations in Hubbard's [A Unified Approach](http://matrixeditions.com/5thUnifiedApproach.html) [@HH15, chapter 1.7--1.9].
 
 ## 2019-01-16
 
@@ -61,7 +61,7 @@ Lectures again, worked to flesh out definitions for modules and simplices. Made 
 
 Attended offices hours for top2. Asked how to distinguish the monodromy action from action of the group of deck transformations. Got permission to stop reviewing top1 (woot!) and pass onto homology.
 
-Thought about morphisms of vector spaces from a categorical perspective. Skimmed Breezer's FCLA (elementary matrices as transformations, 4 subspaces, similar and diagonal matrices). Worked through examples (especially notation) in PCM I.3.4. Slowly began to understand why one would want eigenvector bases to study subspaces "stable" under linear transformation.
+Thought about morphisms of vector spaces from a categorical perspective. Skimmed Breezer's [FCLA](http://linear.ups.edu/html/fcla.html) (elementary matrices as transformations, 4 subspaces, similar and diagonal matrices). Worked through examples (especially notation) in PCM I.3.4. Slowly began to understand why one would want eigenvector bases to study subspaces "stable" under linear transformation.
 
 Also spent an upsetting amount of time configuring pandoc on my laptop and server. Gross. I don't even see how the software is held together. Way beyond me.
 
