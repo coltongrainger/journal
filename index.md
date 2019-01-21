@@ -18,7 +18,7 @@ I struggled with notation for repeated applications of the Fréchet derivative. 
 
 In Folland, I gladly found two problems that matched gaps in my knowledge: one to do with Lagrange multipliers and the spectral theorem, the other to do with setting up a meaningful definition of higher Fréchet derivatives.
 
-> Let $A$ be a symmetric $n \times n$ matrix, and let $f(\vec{x}) = (A \vec x) \cdot \vec x$ for $\vec x \in \mathbf{R}^n$. Show that the maximum and minimum of $f$ on the unit sphere $\{ \vec x : |\vec x| = 1\}$ are the largest and smallest eigenvalues of $A$. [@Fol02, number 2.9.19]
+> Let $A$ be a symmetric $n \times n$ matrix, and let $f(\vec{x}) = (A \vec x) \cdot \vec x$ for $\vec x \in \mathbf{R}^n$. Show that the maximum and minimum of $f$ on the unit sphere $\{ \vec x : \lvert\vec x\rvert = 1\}$ are the largest and smallest eigenvalues of $A$. [@Fol02, number 2.9.19]
 
 > Suppose $f \colon \mathbf{R}^n \to \mathbf{R}$ is of class $C^2$; then $\nabla f$ is a $C^1$ mapping from $\mathbf{R}^n$ to itself. Show that $D(\nabla f)$ is the Hessian matrix of $f$. [@Fol02, number 2.10.6]
 
