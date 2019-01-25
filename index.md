@@ -4,9 +4,26 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2019-01-24
+## 2019-01-23
+
+Lectures.
+
+- In top2, we set out to prove Hurewicz's theorem.
+- In alg2, defined module homomorphisms and started to construct some sort of chain of $F[x]$-modules.
+- In diffgeo1, we stated topological properties of manifolds [@Lee03, pages 5--9] and exhibited spheres, products, and projective spaces as manifolds with charts.
+
+## 2019-01-22
+
+Spent the day solidifying my argument for [a smooth chain rule in Banach spaces](https://quamash.net/diffgeo1#banach-spaces-and-the-smooth-chain-rule). Finished introductory module content in [@DF04, section 10.1].
+
+## 2019-01-21
+
+Went through some beginner's arguments with normed vector spaces.
+
 ## 2019-01-20
 
-I translated Folland's first look at functional relations into intuition for the dimension and symmetric properties of repeated Fréchet derivatives.
+I translated Folland's "first look" at functional relations into intuition for the dimension and symmetric properties of repeated Fréchet derivatives.
 
 I surveyed proofs for inverse function theorems and implicit function theorems [@Fol02, ch. 3.1], [@HH15, ch. 2.10], [@Lee03, no. C.34].
 
@@ -26,7 +43,7 @@ In Folland, I gladly found two problems that matched gaps in my knowledge: one t
 
 Lectures.
 
-- Alg2: In the category of modules, we defined homomorphisms, kernels, quotients, and began to state a series of familiar isomorphism theorems [@DF02, chapter 10.2].
+- Alg2: In the category of modules, we defined homomorphisms, kernels, quotients, and began to state a series of familiar isomorphism theorems [@DF04, chapter 10.2].
 - Diffgeo1: Stated the implicit function theorem [@Lee03, chapter C], and defined a topological manifold [@Lee03, chapter 1].
 - Top2: Reasoned about long exact/non-exact sequences of abelian groups.
 
