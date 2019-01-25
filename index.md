@@ -5,6 +5,11 @@ bibliography: /home/colton/coltongrainger.bib
 ---
 
 ## 2019-01-24
+
+In prob1, we defined random variables and setup results from analysis to guarantee the existence of a random variable that's equal in distribution to whatever probability measure we have chosen. Defined cdfs, pdfs, pmfs, with reference to the Lebesgue decomposition theorem.
+
+Spent the rest of the day TA-ing. I decided to [abandon](https://prooflogger.quamash.net) prooflogger since only a 1/3 of the sections had anything to do with it. I was put off (or enlightened?) after Ulrich mentioned that he never even went o his recitations in Norway, yet there I was taking attendance 3 times redundantly.
+
 ## 2019-01-23
 
 Lectures.
