@@ -6,25 +6,25 @@ bibliography: /home/colton/coltongrainger.bib
 
 ## 2019-01-24
 
-In prob1, we defined random variables and setup results from analysis to guarantee the existence of a random variable that's equal in distribution to whatever probability measure we have chosen. Defined cdfs, pdfs, pmfs, with reference to the Lebesgue decomposition theorem.
+In prob1, we defined random variables and set up results to guarantee the existence of a random variable that's equal in distribution to whatever probability measure we have chosen. Also defined cdfs, pdfs, and pmfs, with reference to the Lebesgue decomposition theorem.
 
-Spent the rest of the day TA-ing. I decided to [abandon](https://prooflogger.quamash.net) prooflogger since only a 1/3 of the sections had anything to do with it. I was put off (or enlightened?) after Ulrich mentioned that he never even went o his recitations in Norway, yet there I was taking attendance 3 times redundantly.
+I spent the rest of the day TA-ing. I decided to [abandon](https://prooflogger.quamash.net) prooflogger since only a third of the sections had anything to do with it. I was brought to my senses by Ulrich, after he mentioned that he only attended recitations in Trondheim to drop off homework.
 
 ## 2019-01-23
 
 Lectures.
 
 - In top2, we set out to prove Hurewicz's theorem.
-- In alg2, defined module homomorphisms and started to construct some sort of chain of $F[x]$-modules.
+- In alg2, we defined module homomorphisms and started to construct some sort of chain of $F[x]$-modules.
 - In diffgeo1, we stated topological properties of manifolds [@Lee03, pages 5--9] and exhibited spheres, products, and projective spaces as manifolds with charts.
 
 ## 2019-01-22
 
-Spent the day solidifying my argument for [a smooth chain rule in Banach spaces](https://quamash.net/diffgeo1#banach-spaces-and-the-smooth-chain-rule). Finished introductory module content in [@DF04, section 10.1].
+I spent the day solidifying my argument for [the smooth chain rule in Banach spaces](https://quamash.net/diffgeo1#banach-spaces-and-the-smooth-chain-rule). Also finished [@DF04, section 10.1].
 
 ## 2019-01-21
 
-Went through some beginner's arguments with normed vector spaces.
+Went through Lang's introduction [@Lan99, ch. 1] to topological vector spaces.
 
 ## 2019-01-20
 
@@ -64,7 +64,7 @@ Fr20 | Analysis 2, Complex Analysis, Algebraic Topology (Pflaum, Beaudry)
 So20 | Talbot, more NSF apps, teaching
 He20 | topic proposal, advisors in MATH/APPM/CS
 
-(Now I have 90% confidence that I will stave off probability until next year.)
+(I have 90% confidence that I will stave off probability until next year.)
 
 ## 2019-01-17
 
