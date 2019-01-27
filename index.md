@@ -4,6 +4,22 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2019-01-27
+
+Typed up notes from Clelland. Basic examples of smooth manifolds. Finished modules problem set from [@DF04, ch. 10.2].
+
+## 2019-01-26
+
+Polished notes from Green on modules.
+
+## 2019-01-25
+
+Lectures. In top2, Beaudry mentioned that "if we didn't like that game" [forcing maps defined out of the cycle group $Z_1(X)$ to descend to the quotient $H_1(X)$] "then we would like it soon because we were about to play it *hard.*" Lol.
+
+In the afternoon, I set up definitions for functor categories and generally the category of quivers (directed graphs).
+
+Talked a bit with Ulrich about duality and Gelfand–Naimark, which motivated me to try and rope the content in alg2 and diffgeo1 closer together. (Ulrich also suggested that I push to do homological algebra sooner than later.)
+
 ## 2019-01-24
 
 In prob1, we defined random variables and set up results to guarantee the existence of a random variable that's equal in distribution to whatever probability measure we have chosen. Also defined cdfs, pdfs, and pmfs, with reference to the Lebesgue decomposition theorem.
