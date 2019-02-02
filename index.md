@@ -4,13 +4,52 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2019-02-01
+
+--- | ---
+alg2 | free modules, feedback on written work, e.g., avoid vague notation such as "Let $\phi \in \mathrm{Hom}$" [@DF04 ch. 10.3]
+diffgeo1 | manifolds with boundary, defining smooth maps, equivalent characterizations of smoothness [@Lee03, pp. 24--35]
+top2 | relative chain complexes, pairs of topological spaces, tensor product review, cohomology with coefficients in $G$ [@Bre03, section IV.5]
+
+## 2019-01-31
+
+TA-ing. Not much math.
+
+## 2019-01-30
+
+--- | ---
+alg2 | subobjects, direct sums, freely generated modules [@DF04 ch. 10.3]
+diffgeo1 | smooth manifold chart lemma, Grassmannians [@Lee03, pp. 21--22]
+top2 | presentations from problem sets; handling edge cases for the first homology group
+
+Presentations were a bit nerve-racking when I realized that I had too heavy-handedly abelianized an infinite product. (See <https://mathoverflow.net/questions/35397>.) Ulrich and I found a counter example where $[\prod G_i, \prod G_i] \subsetneq \prod [G_i, G_i]$. I was then incensed to straighten out *which* (co)products exist in *which* concrete categories I'm usually working in.
+
+## 2019-01-29
+
+- Revised some module theoretic arguments for Green into two-column proofs.
+- Caught up on basic (topological) properties of manifolds. 
+- Prepared for [presentations](https://github.com/coltongrainger/fy19top2/blob/master/2019-01-30-intro-homology.pdf) in top2.
+
+I was glad to attend the organizational meeting for the [topology seminar](https://sites.google.com/view/cutopology/spring-2019?authuser=0). From Beaudry's introduction:
+
+> This semester, we will cover some of the topics in homotopy theory that make an appearance in the work of Freed–Hopkins–Teleman on topological phases of matter. This seminar will be parallel to the Mathematical Physics seminar (Wednesdays from 3-4 pm in MATH 350) but will be for the most part independent. This seminar will be about topology: To understand the connections to physics, you’ll have to read on your own or go the other seminar. We have an ambitious schedule (see plan). It’s not a bad idea to read up a bit on the topics before the talks since we’ll be covering material fast.
+
+The [math-physics](https://math.colorado.edu/seminars/) seminar is co-organized with Prof [Hermele](https://spot.colorado.edu/~hermele/), whose research is in theoretical condensed matter physics. 
+
+## 2019-01-28
+
+--- | ---
+alg2 | finitely generated modules [@DF04, ch. 10.3]
+diffgeo1 | smooth structures, transition maps [@Lee03, pp. 10--16]; spheres, level sets [@Lee03, pp. 17--23]
+top2 | exact sequences of chain complexes, the [Bockstein homomorphism](https://en.wikipedia.org/wiki/Bockstein_homomorphism)
+
 ## 2019-01-27
 
-Typed up notes from Clelland. Basic examples of smooth manifolds. Finished modules problem set from [@DF04, ch. 10.2].
+Notes from Clelland. Basic examples of smooth manifolds. Finished modules problem set from [@DF04, ch. 10.2].
 
 ## 2019-01-26
 
-Polished notes from Green on modules.
+Notes from Green on modules.
 
 ## 2019-01-25
 
@@ -81,6 +120,8 @@ So20 | Talbot, more NSF apps, teaching
 He20 | topic proposal, advisors in MATH/APPM/CS
 
 (I have 90% confidence that I will stave off probability until next year.)
+
+(Update: Maybe quantum physics with Hermele next year?)
 
 ## 2019-01-17
 
