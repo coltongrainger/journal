@@ -4,6 +4,18 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2019-03-23
+
+Took a hiatus from updates to focus on coursework.
+
+Trivial news: I've transitioned my notes and reading material to [Notability](https://www.gingerlabs.com/) for the iPad. As a result, most of my workflow is once again offline. 
+
+By working from an iPad, however, I am happily meeting some immediate goals. These include:
+
+- reading broadly for prelims,
+- integrating my lecture notes with my reading notes, and
+- frequently grinding through exercises.
+
 ## 2019-02-01
 
 --- | ---
