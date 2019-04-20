@@ -4,6 +4,21 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2019-04-19
+
+Here's a viscerally boring design problem. 
+
+---               | ---
+lecture notes     | laptop or notebook 
+reading scribbles | iPad or scratch
+problem sets      | laptop or iPad
+
+## 2019-04-08
+
+My bibliography has gotten out of control. Leo told me to stop shopping around. But how?
+
+> Ask for advice?
+
 ## 2019-03-23
 
 Took a hiatus from updates to focus on coursework.
