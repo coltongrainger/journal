@@ -4,6 +4,190 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2019-06-04
+
+Since I'm liable to forget, I'll describe my current "PIM schema" by cataloging 
+
+- my `$HOME` directory, 
+- what I have on paper, and 
+- software I subscribe to for managing projects.
+
+### `$HOME`
+
+I have a Lenovo T420, whose name is `lobster`. My home directory looks something like 
+
+```
+colton@lobster:~$ tree -L 1
+.
+├── art
+├── blog
+├── coltongrainger.bib
+├── cv
+├── Dropbox
+├── fy
+├── journal
+├── lec
+├── lit
+├── mus
+├── pho
+├── raw
+├── README.md
+├── rec
+├── rote
+└── wiki
+```
+
+During "fiscal year 2019" (i.e., Jun 2018 to May 2019), I commonly worked commonly in
+
+- `fy` (projects for the "fiscal year")
+- `wiki` (materials for <https://quamash.net>)
+- `raw` (scanned handwritten notes, hence `raw`) and
+- `rote` (tab separated files for mnemosyne).
+
+The previous two years (modulo a few details) look like
+
+```
+colton@lobster:~$ tree -L 1 fy/18
+fy/18
+├── 2017-09-job-apps
+├── 2018-04-16-offer-letter-cu-boulder.pdf
+├── 2018-04-27-picklebric-application.txt
+├── 2018-06-18-tutoring
+├── bulma-0.7.1
+├── coding-with-kids
+├── cogr-webpage
+├── coq
+├── data-management-plan
+├── diagnostic
+├── dishwashing
+├── eo
+├── fscss-interviews
+├── fscss-private
+├── fscss-wiki
+├── fscss-work
+├── grad-apps
+├── grad-funding
+├── grap-apps.bak
+├── hakyll
+├── leading-lesson
+├── logos
+├── mentoring
+├── mnep-script
+├── notedown
+├── num
+├── odes
+├── PreTeXt-mathbook
+├── prob
+├── py
+├── PythonDataScienceHandbook
+├── rcf
+├── spoken-word
+└── tex-templates
+```
+
+and 
+
+```
+colton@lobster:~$ tree -L 1 fy/19
+fy/19
+├── 2018-06-alg1-top1-ana1.pdf
+├── 2018-06-until-2019-02.pdf
+├── 2019-03-topology-seminars.pdf
+├── 2019-05-11-top2-omnibus.pdf
+├── alg1
+├── alg2
+├── clothing
+├── cu3d
+├── diffgeo1
+├── dircolors-solarized
+├── examples
+├── internships
+├── mitschriebwiki
+├── napkin-outline
+├── neural-network
+├── orientation
+├── prelims
+├── prob1
+├── project-ideas
+├── records-and-old-todo
+├── ripser
+├── RISE
+├── safe
+├── slow-pitch
+├── soml
+├── stylefiles
+├── summer-review
+├── ta
+├── TDAstats
+├── top1
+├── top2
+├── tripos-course-guides
+├── unicode.sh
+├── vim-tex-fold
+└── yst
+```
+
+About 75% of repositories I have on github (for lack of a better name) are prefixed with, e.g., `fy00`, to indicate that they are locally saved under, e.g., `$HOME/fy/00/`.
+
+I only have digital directories under `fy` back to (about) 2009--2010, when I was spending quite a bit of time after school with "kdawg wangalicous" and the policy debate topic was 
+
+> Resolved: The United States federal government should substantially increase social services for persons living in poverty in the United States.
+
+```
+colton@lobster:~/fy/10$ tree
+.
+├── 2009-apology-to-davidson.txt
+├── 2009-GDI-Nietzsche-K.pdf
+├── 2009-GDI-Objectivism.pdf
+├── 2009-UTNIF-Carceral-Archipelago-K.pdf
+├── 2009-UTNIF-Marxism-K.pdf
+├── 2009-UTNIF-Standpoint-Epistemology-Critique.pdf
+├── 2010-ecopanda-behemoth.pptx
+├── 2010-ganatos-nary-slender-script.txt
+└── 2010-mein-lieblingsplatz.txt
+```
+
+This coming year looks like
+
+```
+colton@lobster:~$ tree -L 1 fy/20
+fy/20
+├── aiwatch
+├── analysis
+├── applied-analysis
+├── nsf-grf
+├── pandas
+├── rda-image-archive
+├── siparcs
+└── topology-prelim
+```
+
+Last year, I used my dropbox to sync notes (written in Notability on my tablet) and pdfs. 
+
+```
+colton@lobster:~$ tree -L 1 Dropbox/
+Dropbox/
+├── Crypted
+├── Downloads
+├── export
+├── import
+└── todo.txt
+```
+
+This year, I plan to keep pdfs in google drive and designate dropbox as my download folder. (I have an SD card for torrent files >2GB.)
+
+I am abandoning *taking notes* on my tablet, because the generated pdfs were large (~100MB) and I realized that Notability was just another (however sleek) WYSIWYG editor in which I wasted my time and was often frustrated with formatting. The alternatives look like
+
+- notes in `latex` or `markdown` on my laptop
+- notes in a (chronological) series of 13x21 cm, un-ruled, [cahier journals](https://web.archive.org/web/20190516162841/https://us.moleskine.com/cahier-journal-brown/p0408)
+- notes on paper, scanned as dated pdfs to `raw`
+
+I may scan the cahier journals pages (as done by mpacer here <https://mpacer.org/qualifying-exam-materials/#/qualifying-exam-written-portion/>). Primarily however, in leaving the tablet for paper, I'm following <https://usesthis.com/interviews/jeremy.kun/>:
+
+> ... I have specificity for writing implements on par with my vim configuration. I use a very specific kind of notepad---unruled, cheap, abundant, low-weight stock---and similarly specific notebooks---small, unruled. I can never use paper or a notebook that I feel is too fancy to house my unendingly bad ideas and egregious mistakes. The only good paper is paper for which, when you throw it on the ground and grab a new sheet to start over, you don't feel bad. Lined paper is hell. I prefer 0.9 mm lead mechanical pencils, though more often than not a 0.7 mm Bic is what I have handy.
+
+At the same time, I will keep *books* and lecture notes that are *polished and proofread* on my tablet, to save weight and leave room in my backpack for plenty of snacks.
+
 ## 2019-04-19
 
 Here's a viscerally boring design problem. 
