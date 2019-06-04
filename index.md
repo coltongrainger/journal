@@ -176,6 +176,8 @@ Dropbox/
 
 This year, I plan to keep pdfs in google drive and designate dropbox as my download folder. (I have an SD card for torrent files >2GB.)
 
+### Paper
+
 I am abandoning *taking notes* on my tablet, because the generated pdfs were large (~100MB) and I realized that Notability was just another (however sleek) WYSIWYG editor in which I wasted my time and was often frustrated with formatting. The alternatives look like
 
 - notes in `latex` or `markdown` on my laptop
@@ -187,6 +189,31 @@ I may scan the cahier journals pages (as done by mpacer here <https://mpacer.org
 > ... I have specificity for writing implements on par with my vim configuration. I use a very specific kind of notepad---unruled, cheap, abundant, low-weight stock---and similarly specific notebooks---small, unruled. I can never use paper or a notebook that I feel is too fancy to house my unendingly bad ideas and egregious mistakes. The only good paper is paper for which, when you throw it on the ground and grab a new sheet to start over, you don't feel bad. Lined paper is hell. I prefer 0.9 mm lead mechanical pencils, though more often than not a 0.7 mm Bic is what I have handy.
 
 At the same time, I will keep *books* and lecture notes that are *polished and proofread* on my tablet, to save weight and leave room in my backpack for plenty of snacks.
+
+### Software
+
+Tersely, I subscribe to use the following software.
+
+- trello
+    - for a single todo list,
+    - and a single reading list.
+- pinboard
+- zotero
+- github
+
+Each week, I put ~15 links in pinboard, ~30 cards in trello, and ~3 citations in zotero. 
+
+I abandoned emacs org-mode for my TODO list because 
+
+- I didn't find any use for clocking my time, 
+- my use was too ephemeral to properly learn org-mode's chording,
+- I suffered through 2 weeks of "emacs configuration bankruptcy" in May 2018
+- I couldn't stand to edit my TODO.org file on my phone.
+
+I listen to music off my phone (connected to a Marshall Woburn Bluetooth speaker) via
+
+- google play music, or
+- the hype machine.
 
 ## 2019-04-19
 
