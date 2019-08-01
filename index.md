@@ -4,6 +4,27 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2019-07-31
+
+Presented "[Towards Categorical Metadata](https://raw.githubusercontent.com/coltongrainger/fy20siparcs/master/2019-07-31-slides/2019-07-31-categorical-metadata.pdf)" for SIParCS.
+
+## 2019-07-20
+
+```
+Leaving,
+as a device?
+
+Had to hurry up, get on. 
+
+They stood and listened. 
+He vanished. 
+
+A spirit 
+of blood 
+trapped itself
+out on the floor.
+```
+
 ## 2019-06-04
 
 Since I'm liable to forget, I'll describe my current "PIM schema" by cataloging 
