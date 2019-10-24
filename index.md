@@ -4,6 +4,48 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2019-10-24
+
+I record an email asking for advice from Scott Sewell (NCAR High Altitude Observatory), from this summer's workshop on "How to write a proposal".
+
+> I had intended to ask following today's workshop:
+> 
+> 1. Have you supervised (or written letters for) students who've applied for the NSF-GRF?
+> 2. If so, what kind of discussions with the student were helpful in terms of providing
+> material on which to base the application (or recommendation)?
+> 
+> Please pardon the email introduction, I ran out of time to ask this of you in person.
+> 
+> I am a 2nd year PhD student in the math department at CU Boulder. The context of my question
+> is that: I would like to know what I might do to work with a 5th year assistant
+> professor (i.e., applying on their recommendation) to prepare for an application for the
+> NSF-GRFP. My research interest is in mathematical physics.
+
+From Scott:
+
+> 1) Describe your personal background briefly with their.  Make sure she know
+> you as a person, what your background is and what your aspirations are.
+> (Similarly, try to get to know them a bit, do they have a family, a spouse,
+> children, ... Remember that we're all humans and that a connection is a great
+> starting point for working together.
+>
+> 2) Talk briefly about your previous preparation for the field (i.e. your
+> coursework and any project work, papers, conferences, etc.)
+>
+> 3) Ask their what additional coursework would best prepare you to work with
+> their (show's that you care about what you bring to help their.  Remember their
+> 'only' concern right now in their career is getting tenure so make sure you
+> provide evidence of how you are going to help their do that (a bit cynical
+> but that's the reality)
+>
+> 4) Come prepared with 2 or 3 ideas for your own research program under their
+> supervision and seek ways to improve them based on their feedback
+>
+> 5) Be pretty prepared with an understanding of their research program goals,
+> it helps to point to a paper of theirs that you've studied and (1) be
+> complimentary and (2) talk if you're able about your research would advance
+> that particular thread...
+
 ## 2019-07-31
 
 Presented "[Towards Categorical Metadata](https://raw.githubusercontent.com/coltongrainger/fy20siparcs/master/2019-07-31-slides/2019-07-31-categorical-metadata.pdf)" for SIParCS.
