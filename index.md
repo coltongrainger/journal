@@ -8,7 +8,7 @@ bibliography: /home/colton/coltongrainger.bib
 
 From this summer with Sam.
 
-![](assets/donuts.jpg)
+<img src="assets/donuts.jpg" alt="Donuts at the Boise Art Museum with Sam" width="500"/>
 
 ## 2019-06-04
 
