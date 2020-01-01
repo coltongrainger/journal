@@ -6,9 +6,9 @@ bibliography: /home/colton/coltongrainger.bib
 
 ## 2020-01-01
 
-From this summer.
+From this summer with Sam.
 
-![](donuts.jpg)
+![](assets/donuts.jpg)
 
 ## 2019-06-04
 
