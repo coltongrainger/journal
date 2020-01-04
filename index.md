@@ -4,6 +4,23 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2020-01-04
+
+I might be motivated to work *for a particular person* rather than on *a specific project*. 
+
+This style of motivation is appropriate because I've given up on logging time for myself. 
+
+From my experience with kan-ban and without a cell phone over the last 3 months (since failing two prelims this Fall), I recognize I just shouldn't *actively* track myself when I'm "working on myself". (I have some *passive trackers*, e.g., time series data for my heartrate, my sleep, and my approximate location. But I don't have to remember do anything to collect this data, and I get to analyze it post hoc.)
+
+At the same time, I *would like* to actively track myself, so I'm trying to be attentive (when I'm working) to *whom* I feel I am working for, rather than fretting to much about *what* I am doing. Here's a rough correspondence.
+
+- algebra notes for Peter
+- analysis prelim for Sergei 
+- image classification for Suchit
+- rdai docs for Matt
+- rdai database for Tom
+- topology geometry prelim for Agnès
+
 ## 2020-01-01
 
 From this summer with Sam.
