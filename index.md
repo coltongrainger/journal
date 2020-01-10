@@ -8,7 +8,7 @@ bibliography: /home/colton/coltongrainger.bib
 
 [<img src="assets/2019-03-inechii-introspection.jpg" width="400"/>](http://blog.inechi.com/2019/11/2019.html)
 
-| Inés Estrada, Untitled, March 2019
+From Inés Estrada, March 2019.
 
 ## 2020-01-04
 
@@ -29,9 +29,9 @@ At the same time, I *would like* to actively track myself, so I'm trying to be a
 
 ## 2020-01-01
 
-From this summer with Sam.
-
 <img src="assets/donuts.jpg" alt="Donuts at the Boise Art Museum with Sam" width="500"/>
+
+From this summer with Sam.
 
 ## 2019-06-04
 
