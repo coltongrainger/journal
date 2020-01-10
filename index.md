@@ -4,6 +4,12 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2020-01-10
+
+[<img src="assets/2019-03-inechii-introspection.jpg" width="400"/>](http://blog.inechi.com/2019/11/2019.html)
+
+| Inés Estrada, Untitled, March 2019
+
 ## 2020-01-04
 
 I might be motivated to work *for a particular person* rather than on *a specific project*. 
@@ -12,14 +18,14 @@ This style of motivation is appropriate because I've given up on logging time fo
 
 From my experience with kan-ban and without a cell phone over the last 3 months (since failing two prelims this Fall), I recognize I just shouldn't *actively* track myself when I'm "working on myself". (I have some *passive trackers*, e.g., time series data for my heartrate, my sleep, and my approximate location. But I don't have to remember do anything to collect this data, and I get to analyze it post hoc.)
 
-At the same time, I *would like* to actively track myself, so I'm trying to be attentive (when I'm working) to *whom* I feel I am working for, rather than fretting to much about *what* I am doing. Here's a rough correspondence.
+At the same time, I *would like* to actively track myself, so I'm trying to be attentive (when I'm working) to *whom* I feel I am working for, rather than fretting to much about *what* I am doing.
 
-- algebra notes for Peter
-- analysis prelim for Sergei 
-- image classification for Suchit
+- chores for myself
 - rdai docs for Matt
 - rdai database for Tom
-- topology geometry prelim for Agnès
+- topology notes for Agnès
+- algebra notes for Peter
+- analysis notes for Sergei 
 
 ## 2020-01-01
 
