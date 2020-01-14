@@ -4,6 +4,43 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2020-01-13
+
+![](https://aadl.org/sites/default/files/photos/N131_0061_018.jpg)
+
+The Ann Arbor YMCA, September 24, 1984
+
+Here's a bibliography for some gymnastics that I'm getting into.
+
+1. Works of B. K. S. Iyengar.
+```
+1966-iyengar-light-on-yoga
+2002-iyengar-light-on-the-yoga-sutras-of-patanjali
+```
+
+2. Academic commentary on scriptures.
+```
+2018-cohen-the-upanishads-routeledge
+2016-ithamar-exploring-the-bhagavad-gita
+2017-mallinson-singleton-the-roots-of-modern-yoga
+```
+
+3. Anglophonic histories.
+```
+2004-alter-yoga-in-modern-india
+2005-de-michelis-elizabeth-history-of-modern-yoga
+2010-singleton-yoga-body-the-origins-of-modern-posture-practice
+2010-freeman-the-mirror-of-yoga
+```
+
+4. Creative non-fiction and other positive admonishments.
+```
+2006-tharp-the-creative-habit
+2009-adele-the-yamas-and-niyamas-exploring-yoga-as-ethical-practice
+2012-cope-the-great-work-of-your-life
+2014-snyder-martin-nobody-home-writing-buddhism-and-living-in-places
+```
+
 ## 2020-01-10
 
 [<img src="assets/2019-03-inechii-introspection.jpg" width="400"/>](http://blog.inechi.com/2019/11/2019.html)
