@@ -575,7 +575,9 @@ I thought about social support networks while travelling from Idaho back to Boul
 
 Following <https://nadiaeghbal.com/notes>, <https://issarice.wordpress.com/>, and <https://youtu.be/M2pGiBrw-Ns?t=422> I'm starting a working journal with a broad scope: early graduate school in the mathematics department at CU Boulder.
 
-I haven't gotten permission to emulate any one of these authors, so I'm sort of planning to write in a manner that oscillates between each's style. In spite of the common medium (~daily entries) it seems each author's motivation is tangential to the other two's: writing for exploration, for transparency, for reflection.
+This journal supersedes my now obsolete [blog](https://blog.coltongrainger.com).
+
+I haven't gotten permission to emulate any one of the above authors, so I'm sort of planning to write in a manner that oscillates between each's style. In spite of the common medium (~daily entries) it seems each author's motivation is tangential to the other two's: writing for exploration, for transparency, for reflection.
 
 I imagine I will be keeping this journal
 
@@ -609,7 +611,6 @@ Philip Guo ([vlog transcript, talking about his journal](https://youtu.be/M2pGiB
 >
 > once again in parentheses I said: focus on how I feel rather than just what I did
 
-## References 
 
 (This section TODO.)
 
