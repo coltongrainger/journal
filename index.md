@@ -6,7 +6,7 @@ bibliography: /home/colton/coltongrainger.bib
 
 ## 2020-01-13
 
-![](https://aadl.org/sites/default/files/photos/N131_0061_018.jpg)
+![](assets/1984-iyengar.jpg)
 
 The Ann Arbor YMCA, September 24, 1984
 
