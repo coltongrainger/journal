@@ -6,11 +6,8 @@ bibliography: /home/colton/coltongrainger.bib
 
 ## 2020-01-13
 
-![](assets/1984-iyengar-ymca.jpg)
 
-The Ann Arbor YMCA, September 24, 1984
-
-Here's a bibliography for some gymnastics that I'm getting into.
+Here's a bibliography for some [gymnastics](assets/1984-iyengar-ymca.jpg) that I'm getting into. (If only I lived in Ann Arbor in 1984.)
 
 1. Works of B. K. S. Iyengar.
 ```
