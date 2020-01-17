@@ -20,35 +20,41 @@ What do I need for yoga during the next couple of months? Christina lists:
 
 ## 2020-01-13
 
+## Bibliography
 
-Here's a bibliography for some [gymnastics](assets/1984-iyengar-ymca.jpg) that I'm getting into. (If only I lived in Ann Arbor in 1984.)
+Here's a bibliography for some "[gymnastics](assets/1984-iyengar-ymca.jpg)" that I'm getting into.
 
-1. Works of B. K. S. Iyengar.
 ```
 1966-iyengar-light-on-yoga
+2014-hansen-netters-anatomy-coloring-book
+1997-ellis-clinical-anatomy
+
 2002-iyengar-light-on-the-yoga-sutras-of-patanjali
-```
+2010-freeman-the-mirror-of-yoga
+2009-adele-the-yamas-and-niyamas-exploring-yoga-as-ethical-practice
 
-2. Academic commentary on scriptures.
-```
-2018-cohen-the-upanishads-routeledge
-2016-ithamar-exploring-the-bhagavad-gita
-2017-mallinson-singleton-the-roots-of-modern-yoga
-```
+2000-rothschild-the-body-remembers
+2004-naparstek-invisible-heroes
+2004-vanderkolk-the-body-keeps-score
 
-3. Anglophonic histories.
-```
+2015-rose-untangled
+2017-sherman-alexie-you-dont-have-to-say-you-love-me
+2006-tharp-the-creative-habit
+2012-cope-the-great-work-of-your-life
+2000-rothschild-the-body-remembers-casebook
+
 2004-alter-yoga-in-modern-india
 2005-de-michelis-elizabeth-history-of-modern-yoga
 2010-singleton-yoga-body-the-origins-of-modern-posture-practice
-2010-freeman-the-mirror-of-yoga
-```
+2017-mallinson-singleton-the-roots-of-modern-yoga
 
-4. Creative non-fiction and other positive admonishments.
-```
-2006-tharp-the-creative-habit
-2009-adele-the-yamas-and-niyamas-exploring-yoga-as-ethical-practice
-2012-cope-the-great-work-of-your-life
+2018-cohen-the-upanishads-routeledge
+2016-ithamar-exploring-the-bhagavad-gita
+
+2000-snyder-reader-prose-poetry-and-translations
+2010-snyder-the-practice-of-the-wild
+
+2000-desalvo-writing-as-a-way-of-healing
 2014-snyder-martin-nobody-home-writing-buddhism-and-living-in-places
 ```
 
