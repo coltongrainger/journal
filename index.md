@@ -4,6 +4,20 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2020-01-17
+
+What do I need for yoga during the next couple of months? Christina lists:
+
+1. An open mind and a commitment to learning.
+2. A journal. 
+3. A notebook and pen. 
+4. A good mat, a mat towel.
+5. Layers and clean clothing.
+6. Eating utensils, snacks, packed lunches.
+7. Consider dropping or reducing caffeine, sugar, smoking, social media, etc.
+8. Extra support. We encourage other modalities (i.e. therapy, acupuncture, massage, etc.) to complement yoga.
+9. A light heart. 
+
 ## 2020-01-13
 
 
