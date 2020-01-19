@@ -27,7 +27,22 @@ but I can't even seem to do this with
 globalprotect connect --portal gp.ucar.edu
 ```
 
-Erg!
+Erg! But there's hope, if I shell into Casper first (or maybe just use my work laptop) then I can access 
+
+```
+mysql -h rda-db.ucar.edu -u <user> -p<password> images 
+```
+with no problem. Moreover
+
+```
+MySQL [images]> show grants for dssdb@localhost;
+
+GRANT ALL PRIVILEGES ON `images`.* TO 'dssdb'@'localhost'
+```
+
+so that if I create the user `dssdb` on my local mysql server, and am able to inject metadata there, porting over to Casper shouldn't be too difficult. 
+
+I have through MLK day to do it. Yikes!
 
 ## 2020-01-17
 
