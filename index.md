@@ -4,6 +4,31 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2020-01-18
+
+I found Philip's sample images on the SIParCS google drive and feel like a straight fool for not knowing they were there. I now have 7.4 GB of raw images to use as a test image database.
+
+Moreover, I should also include the logbooks of the USS Jeanette.
+
+- <https://research.archives.gov/id/6919191>
+- <https://research.archives.gov/id/6919192>
+- <https://research.archives.gov/id/6919193>
+- <https://research.archives.gov/id/6919194>
+
+Well, I'd at least better be able to connect to 
+
+```
+rda-db.ucar.edu
+```
+
+but I can't even seem to do this with
+
+```
+globalprotect connect --portal gp.ucar.edu
+```
+
+Erg!
+
 ## 2020-01-17
 
 What do I need for yoga during the next couple of months? Christina lists:
