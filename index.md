@@ -44,6 +44,11 @@ so that if I create the user `dssdb` on my local mysql server, and am able to in
 
 I have through MLK day to do it. Yikes!
 
+```
+-bash-4.2$ mysql -h rda-db.ucar.edu -u dssdb -p -V
+mysql  Ver 15.1 Distrib 5.5.56-MariaDB, for Linux (x86_64) using readline 5.1
+```
+
 ## 2020-01-17
 
 What do I need for yoga during the next couple of months? Christina lists:
