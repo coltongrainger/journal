@@ -4,6 +4,15 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2020-01-20
+
+At least in `B-tree` indexes and in group theory, a "transversal" refers to a unique set of "class" representatives.
+
+```
+[ad. L. transvers-us turned or directed across, pa. pple. of transvertĕre: see
+transvert. Cf. F. transverse (16th c.).]
+```
+
 ## 2020-01-18
 
 I found Philip's sample images on the SIParCS google drive and feel like a straight fool for not knowing they were there. I now have 7.4 GB of raw images to use as a test image database.
