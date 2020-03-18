@@ -4,6 +4,97 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2020-03-17
+
+Happy belated Pi Day! I have spent the last month or so learning how to "write idiomatic python programs" by studying notes from Jake Vanderplas [@Van16], Wes McKinney [@McK17], Michael Eichberg [@Eic18], John Guttag [@Gut16], and others [@Sha17]. Here's a bibliography.
+
+### Project Development
+
+A summary of [@Eic18].
+
+> The goal [of these notes] is to enable you to systematically carry out small(er) commercial or open-source software projects.
+
+> Basic knowledge of object-oriented programming concepts is necessary. 
+
+A summary of [@Sha17].
+
+> Just write down what you think your process is and
+what problems you seem to have. At this stage you might have no idea how you
+work because you aren’t very experienced. To help you I’ve compiled a list of
+questions:
+>
+> - Do you tend to make defective code with no idea why?
+> - Do you keep piling code on top of code until there’s just a huge mess?
+> - Do you get past the first implementation of your project and have no idea how to take it further?
+> - Do you feel inferior or like a fraud who will get caught?
+
+### "Idiomatic" Python 
+
+A summary of [@Gut16].
+
+> When you have finished this book you should have [...] learned a systematic approach to *organizing, writing, and debugging medium-sized programs*.
+
+A summary of [@Van16].
+
+> *A Whirlwind Tour of Python* is a fast-paced introduction to *essential features [e.g., errors and exceptions, modules and packages]* of the Python language, aimed at researchers and developers who are already familiar with programming in another language. 
+
+A summary of [@McK17].
+
+> This book is concerned with the nuts and bolts of *manipulating, processing, cleaning,
+and crunching data in Python.* My goal is to offer a guide to the parts of the Python
+programming language and its data-oriented library ecosystem and tools that will
+equip you to become an effective data analyst. 
+
+### "Pythonic" SQL
+
+From the introduction to [@Cop15].
+
+
+> SQL is a powerful language for querying and manipulating data in a database,
+> but sometimes it’s tough to integrate it with the rest of your application.
+> You may have used string manipulation to generate queries to run over an
+> ODBC interface, or used a DB API as a Python programmer. While those can be
+> effective ways to handle data, they can make security and database changes
+> very difficult.
+>
+> This book is about a very powerful and flexible Python library named
+> SQLAlchemy that bridges the gap between relational databases and traditional
+> programming. While SQLAlchemy allows you to “drop down” into raw SQL to
+> execute your queries, it encourages higher-level thinking through a more
+> “Pythonic” and friendly approach to database queries and updates. It
+> supplies the tools that let you map your application’s classes and objects
+> to database tables once and then to “forget about it,” or to return to
+> your model again and again to fine-tune performance.
+>
+> SQLAlchemy is powerful and flexible, but it can also be a little daunting.
+> SQLAlchemy tutorials expose only a fraction of what’s available in this
+> excellent library, and though the online documentation is extensive, it is
+> often better as a reference than as a way to learn the library initially. This
+> book is meant as a learning tool and a handy reference for when you’re in
+> “implementation mode” and need an answer fast.
+>
+> This book is intended for those who want to learn more about how to use relational
+databases in their Python programs, or have heard about SQLAlchemy and want
+more information on it. To get the most out of this book, the reader should have
+intermediate Python skills and at least moderate exposure to SQL databases. [...] If you are new to SQL and databases, check out *Learning SQL* by Alan
+Beaulieu [@Bea20]. These will fill in any missing gaps as you work through this book.
+
+
+## 2020-02-05
+
+MWE for the image archive. <https://blog.coltongrainger.com/attached/2020-02-05-mwe.tar.gz>
+
+## 2020-01-21
+
+In `ncar_pylib`, there's no module `MySQLdb` nor module `pymysql`. But SQLAlchemy can still connect via the connection string (c.f. <https://docs.sqlalchemy.org/en/13/dialects/mysql.html#module-sqlalchemy.dialects.mysql.mysqlconnector>)
+
+```
+mysql+mysqlconnector://<user>:<password>@<host>[:<port>]/<dbname>
+```
+
+through `mysql-connector`, which *is* available.
+
+
 ## 2020-01-20
 
 At least in `B-tree` indexes and in group theory, a "transversal" refers to a unique set of "class" representatives.
