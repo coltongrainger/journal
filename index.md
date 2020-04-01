@@ -17,10 +17,11 @@ Reflecting on this news (rather early in the morning):
 
 3. Now, since I am no longer tied to Boulder, I have freedom to choose where I want to live: and I want to live in Houston, TX.
 
-Here're some of the texts I read to think about my role and begin to "separate
-my tasks" from the tasks of others.
+Here're sections of texts I read to mull over my (vocational) tasks as distinct from the tasks of others.
 
-### Tao Te Ching, lyric 9
+### Tao Te Ching, lyric 9, translated by Aleister Crowley
+
+(Originally quoted to me by Dave Spring 2014 after poorly passing Differential Equations.)
 
 Fill not a vessel, lest it spill in carrying. Meddle not with a sharpened point
 by feeling it constantly, or it will soon become blunted.
@@ -30,7 +31,7 @@ arrogance and envy, and bring ruin. Is they way famous and thy name becoming
 distinguished? Withdraw, thy work once done, into obscurity; this is the way of
 Heaven.
 
-### Bhagavad Gita, verses 3.27--3.35 
+### Bhagavad Gita, verses 3.27--3.35, paraphrased from Edgarton Franklin
 
 Material nature's Strands perform all actions. And one whose soul is deluded by ego imagines: 'I am the agent behind these actions.'
 
@@ -51,7 +52,9 @@ Of every sense, upon the objects of that sense, longing and loathing are fixed. 
 Better one's own duty, (tho) imperfect, than another's duty well performed.
 Better death while performing one’s own duty --- another's duty brings danger.
 
-### The Courage to Be Disliked, page 186
+### The Courage to Be Disliked, page 186, Ichiro Kishimi and Fumitame Koga
+
+(Recommended to me by Scott this last Winter.)
 
 Youth: But! When one is praised by another person, one becomes truly aware of
 one's ability and regains one's courage. Please do not be stubborn about this
