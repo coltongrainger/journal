@@ -4,6 +4,97 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2020-03-31
+
+Found out yesterday I didn't get the NSF
+GRF for 2020 ([application documents](https://github.com/coltongrainger/fy20nsf)). 
+
+Reflecting on this news (rather early in the morning):
+
+1. I think have been avoiding certain life tasks for want of superficial reward.
+
+2. Had I gotten the GRF, I would've leveraged this funding to exacerbate power struggles in my "vertical" relationships (namely avoiding TA duties), rather than building horizontal relationships (what Alder describes as 'community feeling').
+
+3. Now, since I am no longer tied to Boulder, I have freedom to choose where I want to live: and I want to live in Houston, TX.
+
+Here're some of the texts I read to think about my role and begin to "separate
+my tasks" from the tasks of others.
+
+### Tao Te Ching, lyric 9
+
+Fill not a vessel, lest it spill in carrying. Meddle not with a sharpened point
+by feeling it constantly, or it will soon become blunted.
+
+Gold and jade endanger the house of their possessor. Wealth and honors lead to
+arrogance and envy, and bring ruin. Is they way famous and thy name becoming
+distinguished? Withdraw, thy work once done, into obscurity; this is the way of
+Heaven.
+
+### Bhagavad Gita, verses 3.27--3.35 
+
+Material nature's Strands perform all actions. And one whose soul is deluded by ego imagines: 'I am the agent behind these actions.'
+
+Yet one who knows the truth, O mighty Arjuna, --- 'The Strands act upon the Strands' --- is not attached to actions.
+
+Bewildered by material nature's Strands, many attach their Self to these Strands' actions. But those of complete knowledge cannot disturb these dull folks of incomplete knowledge.
+
+So Arjuna, surrendering all your activities unto Me, fixing your mind on your highest self, being free from longing and selfishness, cast lethargy aside and fight! 
+
+Those who follow this doctrine of Mine, full of faith and not murmuring, are released from their karma bondage.
+
+But those who --- murmuring against it ---  do not follow my doctrine, are deluded in all their knowledge; know that these fools are lost.
+
+One acts according to their own material nature --- even the wise --- as all beings follow their nature; what can repression accomplish? 
+
+Of every sense, upon the objects of that sense, longing and loathing are fixed. But one should not fall under their power, as both are foes. 
+
+Better one's own duty, (tho) imperfect, than another's duty well performed.
+Better death while performing one’s own duty --- another's duty brings danger.
+
+### The Courage to Be Disliked, page 186
+
+Youth: But! When one is praised by another person, one becomes truly aware of
+one's ability and regains one's courage. Please do not be stubborn about this
+point --- just acknowledge the necessity of giving praise.
+
+Philosopher: No, I will not acknowledge that.
+
+Youth: Why not?
+
+Philosopher: The reason is clear. Being praised is what leads people to form the
+belief that they have no ability.
+
+Youth: What did you say?
+
+Philosopher: Shall I repeat myself? The more one is praised by another, the more
+one forms the belief that one has no ability. Please do your best to remember
+this.
+
+Youth: Do such foolish people even exist? It's got to be the other way around!
+It is as a result of being praised that one becomes truly aware of one's
+ability: isn't that obvious?
+
+Philosopher: You are wrong. Even if you do derive joy from being praised, it is
+the same as being dependent on relationships to your perceived superiors, and
+implicitly conceding that you have no ability. Because giving praise is a
+judgement that is passed by a person of ability onto a person without.
+
+Youth: I just cannot agree with that.
+
+Philosopher: When receiving praise becomes one's goal, one is choosing a way of
+living that is in line with another person's system of values. Looking at your
+life until now, aren't you tired of trying to live up to your superior's
+expectations?
+
+Youth: Um, well, I guess so.
+
+Philosopher: First, do the separation of tasks. Then, while accepting each
+other's difference, build equal horizontal relationships. Encouragement is the
+approach that comes next.
+
+Youth: So, concretely speaking, how does one go about this? One cannot praise,
+and one cannot rebuke. What other words and choices are there?
+
 ## 2020-03-17
 
 Happy belated Pi Day! I have spent the last month or so learning how to "write idiomatic python programs" by studying notes from Jake Vanderplas [@Van16], Wes McKinney [@McK17], Michael Eichberg [@Eic18], John Guttag [@Gut16], and others [@Sha17]. Here's a bibliography.
