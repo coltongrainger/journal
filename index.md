@@ -4,6 +4,10 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2020-04-20
+
+I moved to Boise, Idaho, my hometown, after attempting (and failing) to move to Tacoma.
+
 ## 2020-03-31
 
 Found out yesterday I didn't get the NSF
