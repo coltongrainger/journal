@@ -4,6 +4,24 @@ author: Colton Grainger
 bibliography: /home/colton/coltongrainger.bib
 ---
 
+## 2020-05-28
+
+Have a phone interview today with [Jelli](https://www.crunchbase.com/organization/jelli). 
+
+Following the advice of <https://candor.co/interview-prep/how-to-not-suck-at-behavioral-interviews>, I'm preparing answers to the following ten "very basic interview questions that come up all the time", relative to my application for a mid-level software engineering position at Jelli.
+
+### Tell me about yourself.
+
+- What is the biggest accomplishment in your career so far?
+- Describe a time when you had conflict with a peer. How did you handle it?
+- Give me an example of a time you got negative feedback.
+- Why do you want to work for our company?
+- Why did you decide to leave your last job?
+- What kind of teams do you like to work with?
+- Tell me about a time you took initiative on a project.
+- Give me an example of how you communicate with cross-functional partners.
+- How do you handle projects that are ambiguous or lack direction?
+
 ## 2020-04-20
 
 I moved to Boise, Idaho, my hometown, after attempting (and failing) to move to Tacoma.
